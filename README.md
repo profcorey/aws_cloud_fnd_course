@@ -4,17 +4,17 @@ CIS 3xxx: AWS Cloud Foundations
 
 Justifcation for request:
 
-Common Course Number:
+Common Course Number: CIS 3xxx
 
 Course Title: AWS Cloud Foundations
 
-Contact Hour Breakdown:
+Contact Hour Breakdown: CR: 3 Contact (Lecture + Lab): 3 Lab: 0
 
-Discipline:
+Discipline: CIT, CMP Prg & Anly, & DB Tech
 
-Prerequisities:
+Prerequisities: None
 
-Corequisites:
+Corequisites: None
 
 Catalog Description:
 
@@ -34,13 +34,12 @@ Cloud concepts
 * Cloud architecture
 * Automatic scaling and monitoring
 
-
-
 Major Learning Outcomes with Evidence, Core Competencies and Indicators
 
 
-* Define the AWS Cloud.•Explain the AWS pricing philosophy 
-*Identify the global infrastructure components of AWS.
+* Define the AWS Cloud.
+* Explain the AWS pricing philosophy 
+* Identify the global infrastructure components of AWS.
 * Describe security and compliance measures of the AWS Cloud including AWS Identity and Access Management (IAM).
 * Create an AWS Virtual Private Cloud (Amazon VPC).
 * Demonstrate when to use Amazon Elastic Compute Cloud (EC2), AWS Lambda and AWS Elastic Beanstalk.•Differentiate between Amazon S3, Amazon EBS, Amazon EFS and Amazon S3 Glacier.
