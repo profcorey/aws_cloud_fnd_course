@@ -2,7 +2,8 @@
 
 CIS 3xxx: AWS Cloud Foundations
 
-Justifcation for request:
+Justifcation for request: This course is missing in the cloud curriculum. It provides foundational concepts for students to comprehend before enrolling in other cloud courses in the curriculum.
+
 
 Common Course Number: CIS 3xxx
 
@@ -18,7 +19,9 @@ Corequisites: None
 
 Catalog Description:
 
-
+This course is intended for students who seek an overall understanding of cloud
+computing concepts, independent of specific technical roles. It provides a detailed overview of cloud
+concepts, AWS core services, security, architecture, pricing, and support.
 
 
 Major Topics / Concepts / Skills / Issues
