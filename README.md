@@ -1,4 +1,4 @@
-# aws_cloud_fnd_course
+# New Course Development
 
 CIS 3xxx: AWS Cloud Foundations
 
